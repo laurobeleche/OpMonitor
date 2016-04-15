@@ -1,0 +1,13 @@
+name: OpMonitor
+main: Beleche\OpMonitor\OpMonitorMain
+version: 0.0.1b
+api: [1.0.0, 2.0.0]
+author: laurobeleche
+load: POSTWORLD
+
+commands:
+ opm:
+  description: "Control of Op Monitor"
+  usage: "/opm reload"
+  default: op
+  permission: "opmonitor.command.opm"
