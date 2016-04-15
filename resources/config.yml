@@ -1,0 +1,17 @@
+############################################################################
+# Exucato o comando assim que o server inicializa;##########################
+
+#true habilita o op drop, false desabilita#
+opdrop: true
+
+#Habilita mensagem quando bloqueado#
+message: true
+
+#Aviso sobre o drop#
+messagedrop: Não pode dropar itens!
+
+#Habilitaa interação com baús no modo criativo#
+opchest: true
+
+#Aviso sobre a interação com baús#
+messagechest: Não pode interagir com baús!
