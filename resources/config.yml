@@ -1,14 +1,19 @@
 #true habilita o op drop, false desabilita#
+#true enables op drop , false disables #
 opdrop: true
 
 #Habilita mensagem quando bloqueado#
+#Enable messages when drop and chest is blocked #
 message: true
 
 #Aviso sobre o drop#
+#Notice when drop#
 messagedrop: Não pode dropar itens!
 
 #Habilitaa interação com baús no modo criativo#
+#Enable and desable the chest interact in creative mode#
 opchest: true
 
 #Aviso sobre a interação com baús#
+#Notice when chest interact is blocked#
 messagechest: Não pode interagir com baús!
