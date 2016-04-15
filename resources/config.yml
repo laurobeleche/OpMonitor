@@ -1,6 +1,3 @@
-############################################################################
-# Exucato o comando assim que o server inicializa;##########################
-
 #true habilita o op drop, false desabilita#
 opdrop: true
 
